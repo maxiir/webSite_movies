@@ -1,0 +1,45 @@
+.card{
+    transition: all 2s;
+    margin: 20px 20px;
+    background-color: rgba(205, 162, 224, 0.295);
+    border: none;
+    /* width: 85%; */
+    padding: 12%;
+}
+
+.card:hover{
+    transition: all 2s;
+    /* width: 90%; */
+    
+}
+
+.card p{
+    text-align: center;
+    margin: 30px 0px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+
+.card h1{
+    text-align: center;
+    margin: 30px 0px;
+    font-family: 'Syncopate', sans-serif;
+    font-size: 25px;
+    color: rgb(8, 66, 136);
+}
+
+.card h5{
+    text-align: center;
+    margin: 30px 0px;
+    font-family: 'Syncopate', sans-serif;
+    font-size: 14px;
+    
+    
+}
+
+
+
+
+
+
+

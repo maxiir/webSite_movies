@@ -1,0 +1,12 @@
+footer{
+    transition: all 2s;
+    width: 100%;
+    background-color: black;
+    transform: translateY(100vh);
+    height: 100px;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+}

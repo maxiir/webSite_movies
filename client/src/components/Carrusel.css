@@ -1,0 +1,24 @@
+.carousel-inner{
+    background-color: rgba(0, 0, 0, 0.538);
+    
+}
+
+.carousel-item{
+    transform: translate(10%,5%);
+    height: 360px;
+}
+
+.carousel-item img{
+    transition: all 500ms;
+    width: 280px;
+    height: 300px;
+    cursor: pointer;
+    margin: 0 10px;
+    transform: translateY(5px);
+}
+
+.carousel-item img:hover{
+    width: 300px;
+    height: 320px;
+    transition: all 500ms;
+}

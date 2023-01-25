@@ -1,0 +1,32 @@
+nav{
+    position: fixed;
+}
+.container-fluid a{
+    transition: all 2s;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+
+.container-fluid a:hover{
+    color: rgb(35, 130, 247);
+    font-size: 20px;
+    transition: all 2s;
+}
+
+.container-fluid a::after{
+    content: '|';
+    padding: 30px;
+}
+
+.container-fluid p{
+    color: white;
+    font-family: 'Syncopate', sans-serif;
+}
+.container-fluid p:hover{
+    color: white;
+}
+
+.container-fluid{
+    padding: 0px, 5px;
+}
